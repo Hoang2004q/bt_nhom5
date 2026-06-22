@@ -15,6 +15,6 @@ public class RPGStatGenerator {
         System.out.println("Mana: " + mana);
         System.out.println("Strength: " + strength);
         
-        System.out.println("\nStats generated successfully! File added to the team repository.");
+        System.out.println("\nStats generated successfully!");
     }
 }
